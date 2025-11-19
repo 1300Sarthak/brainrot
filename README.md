@@ -1,6 +1,6 @@
 # Brainrot games
 
-## This README was made with AI (i'm too lazy to write it)
+## This README was made with AI (i'm too lazy to write it lol)
 
 This repo will contain a collection of brainrot games.
 For now, it only contains Word Tuah. A brain rot version of Wordle.
