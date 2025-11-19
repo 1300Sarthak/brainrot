@@ -7,15 +7,6 @@ interface WordEntry {
   length: number;
 }
 
-//For testing
-/*const WORDS = [
-  {
-    word: 'sloth bytes',
-    definition: "Oh you don't know what a sloth byte is?",
-    length: 11,
-  },
-];
-*/
 
 // Type assertion to tell TypeScript this is an array of WordEntry
 export const WORDS = wordsData as WordEntry[];

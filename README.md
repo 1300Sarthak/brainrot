@@ -17,7 +17,7 @@ For now, it only contains Word Tuah. A brain rot version of Wordle.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/The-CodingSloth/brainrot-games.git
+git clone https://github.com/1300Sarthak/brainrot-games.git
 cd brainrot-games
 ```
 
@@ -66,7 +66,7 @@ Contributions are welcome! If you'd like to contribute to Word Tuah, please foll
 2. **Clone Your Fork**:
 
 ```bash
-git clone https://github.com/The-CodingSloth/brainrot-games.git
+git clone https://github.com/1300Sarthak/brainrot-games.git
 cd brainrot-games
 ```
 
